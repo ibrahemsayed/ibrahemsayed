@@ -1,42 +1,31 @@
 name: Generate Snake
 
-# Controls when the action will run
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  
-  # Run on every push to the main/master branch
   push:
     branches:
       - main
-      - master
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       
-      # Step 2: Generate the snake
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          github_user_name: ibrahemsayed
+          outputs: dist/github-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # Step 3: Push the generated files to the output branch
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
