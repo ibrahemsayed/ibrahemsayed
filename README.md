@@ -180,8 +180,8 @@ class Developer {
 ## 📱 Featured Projects
 
 ### 🚚 Teslm - Logistics & Delivery Platform
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teslm)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/teslm)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teslm&hl=en_US)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/ae/app/teslm/id6746127764)
 
 **Senior Flutter Developer** | *Production App*
 
@@ -202,8 +202,8 @@ Architected a **real-time logistics and delivery application** featuring live dr
 ---
 
 ### 🛒 Click Tick - B2B & B2C E-commerce Platform
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.clicktick)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/clicktick)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sbtech.clicktick&hl=en_US)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/ae/app/clicktick/id6449221939)
 
 **Flutter Developer** | *Production App*
 
@@ -224,8 +224,8 @@ Engineered a **scalable e-commerce platform** handling complex inventory data fo
 ---
 
 ### 💰 Overtime - Marketing & Commission Platform
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.overtime)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/overtime)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.MRcode.overtime_app)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/overtime-marketing/id1659885549)
 
 **Flutter Developer** | *Production App*
 
@@ -246,7 +246,7 @@ Built a **feature-rich marketing application** supporting 7 different work syste
 ---
 
 ### 📊 Raqib - Corporate Accounting Platform
-[![Web App](https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://raqib.web.app)
+[![Web App](https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://raqib.gulfnavi.com/)
 
 **Flutter Web Developer** | *Production App*
 
@@ -267,6 +267,7 @@ Developed a **responsive corporate accounting platform** compatible with all scr
 ---
 
 ### 🏪 Wavyi - Dynamic E-commerce Engine
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.wavyi.seller_dashboard_application)
 
 **Flutter Developer** | *Enterprise Solution*
 
@@ -287,7 +288,7 @@ Developed a **dynamic e-commerce engine** allowing businesses to generate custom
 ---
 
 ### 🍽️ Hadramout-Hamza - Restaurant Delivery
-[![Web App](https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://hadramout-hamza.web.app)
+[![Web App](https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://hadramout-hamza.com/)
 
 **Flutter Developer** | *Production App*
 
@@ -302,17 +303,17 @@ Restaurant delivery application built with Flutter and Firebase.
 Built **multiple cooperative society apps** for Kuwait:
 
 #### 🛒 Coop Gaber Alaly
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coopgaberalaly)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.main.besnesconcebt.coop.gaber_alaly.gaber_alaly_app)
 
 Electronic platform for Dahiyat Jaber Al-Ali Consumer Cooperative Society
 
 #### 📰 Mubarak
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mubarak)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.main.codenavigate.mubarakNewsApp)
 
 Mubarak Al-Kabeer Association news application
 
 #### 🏪 Coop Egaila
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coopegaila)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.main.besnesconcebt.coop.egaila.egaila_app)
 
 Aqeelah Consumer Cooperative Society platform
 
@@ -404,17 +405,6 @@ Faculty of Computers and Information, Fayoum University
 
 ---
 
-## 💡 Current Focus
-
-- 🔭 Building **enterprise-grade Flutter applications**
-- 🌱 Mastering **Flutter Web** optimization techniques
-- 🧠 Exploring **advanced real-time architectures**
-- 🎯 Contributing to **open-source Flutter packages**
-- 💬 Mentoring developers in **Clean Architecture** and **best practices**
-- ⚡ Optimizing **app performance** and **reducing load times**
-
----
-
 ## 🌟 Soft Skills
 
 - 🤝 **Teamwork** - Collaborative development
@@ -447,18 +437,6 @@ I'm currently open to:
 - 🚀 **Technical Leadership Roles** - Leading Flutter teams
 - 🎓 **Mentorship** - Training and guiding developers
 - 🌍 **International Projects** - Cross-border collaboration
-
----
-
-## ⚡ Fun Facts
-
-- ☕ Powered by coffee and challenging technical problems
-- 🧩 Love solving complex architectural challenges
-- 📚 Regular reader of Flutter and Dart documentation
-- 🎮 Passionate about creating smooth user experiences
-- 🚀 Believer in continuous learning and improvement
-- 💻 Clean code enthusiast - code should be poetry
-- 🌍 Based in Giza, Egypt - Open to remote opportunities
 
 ---
 
