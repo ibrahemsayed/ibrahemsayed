@@ -31,7 +31,20 @@ Results-driven **Senior Flutter Developer** with **4+ years** of proven experien
 ## 💻 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode,vscode,git,github,gitlab,figma,cpp,cs" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=xcode" alt="Xcode" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" width="48" alt="Jira" />
+  <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" height="48" width="48" alt="ClickUp" />
 </p>
 
 ---
